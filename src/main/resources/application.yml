@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://user_43asck6b4:p43asck6b4@bytexldb.com:5050/db_43asck6b4
